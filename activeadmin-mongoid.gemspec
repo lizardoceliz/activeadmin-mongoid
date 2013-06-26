@@ -24,5 +24,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'meta_search', '>= 1.1.0.pre'
   gem.add_runtime_dependency 'sass-rails',  '4.0.0.rc2'
 
-  gem.add_development_dependency 'rspec-rails',  '~> 2.7'
+  gem.add_development_dependency 'rspec-rails',  '2.14.0.rc1'
 end
